@@ -1,0 +1,54 @@
+html *{
+
+    font-family: 'Open Sans', sans-serif;
+
+    
+
+}
+
+
+
+@media (max-width:1000px) {
+    .poza{
+    margin: 1%;
+    width: 98%;
+    border-radius: 20px;
+} 
+.poza2{
+    float: left;    
+    margin: 0 15px 30px 15px;
+    width: 20vh;
+    border-radius: 5px;
+}
+
+.contex{
+    font-size: 40px;
+    color: lightgreen;
+}
+}
+@media (min-width:1000px) {
+    .poza{   
+    margin: 1%;
+    width: 98%;
+    border-radius: 20px;
+} 
+.p1 {
+    margin: 15px;
+}
+.contex{
+    font-size: 20px;
+    color: lightgreen;
+}
+.titlu{
+
+    font-weight: bold;
+
+    background:linear-gradient(to right,cyan,white);
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+
+    font-size: 30px;
+    text-align:  center;
+}

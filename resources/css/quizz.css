@@ -1,0 +1,66 @@
+html *{
+
+    font-family: 'Open Sans', sans-serif;
+
+    
+
+}
+
+
+
+@media (max-width:1000px) {.poza1{
+    float: right;    
+    margin: 0 0 0 15px;
+    height: 15vh;
+    border-radius: 5px;
+} 
+.poza2{
+    float: left;    
+    margin: 0 15px 30px 15px;
+    width: 20vh;
+    border-radius: 5px;
+}
+.rsp{
+    color:#DEF2F1;
+    font-size:455em;
+}
+.p1 {
+    margin: 15px;
+}
+.contex{
+    font-size: 40px;
+    color: lightgreen;
+}
+@media (min-width:1000px) {.poza1{
+    float: right;   
+    margin: 0 0 0 15px;
+    height: 30vh;
+    border-radius: 5px;
+}
+} 
+.poza2{
+    float: left;    
+    margin: 0 15px 30px 15px;
+    width: 40vh;
+    border-radius: 5px;
+}
+.p1 {
+    margin: 15px;
+}
+.contex{
+    font-size: 20px;
+    color: lightgreen;
+}
+.titlu{
+
+    font-weight: bold;
+
+    background:linear-gradient(to right,cyan,white);
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+
+    font-size: 30px;
+    text-align:  center;
+}

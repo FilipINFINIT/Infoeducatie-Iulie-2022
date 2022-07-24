@@ -1,0 +1,170 @@
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:17 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:38 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:50 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:06:51 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:14 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:25 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:07:26 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:27 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:10:28 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:13 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 3
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-1.php on line 5
+[21-Jul-2022 20:44:33 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-1.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-1.php on line 9
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:30 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-2.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-2.php on line 9
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(resources/side-php/connection.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-2.php on line 3
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(resources/side-php/global-functions.php): failed to open stream: No such file or directory in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Warning:  include(): Failed opening 'resources/side-php/global-functions.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/siteedro/public_html/Lectii/cap1-2.php on line 5
+[21-Jul-2022 21:23:31 Europe/Bucharest] PHP Fatal error:  Uncaught Error: Call to undefined function checkLogin() in /home/siteedro/public_html/Lectii/cap1-2.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/siteedro/public_html/Lectii/cap1-2.php on line 9

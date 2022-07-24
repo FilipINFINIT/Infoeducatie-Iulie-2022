@@ -1,0 +1,673 @@
+html *{
+
+    font-family: 'Open Sans', sans-serif;
+
+    
+
+}
+
+
+
+@media (max-width:1000px) {
+.navv{
+    top: 220px;
+
+    position: relative;
+
+    width: 94%;
+
+    float: right;
+
+    right: 5%;
+
+}
+.test{
+    font-size: 30px;
+    color: white;
+}
+.content-container{
+
+    width:80%;
+
+    background-color: rgba(23, 37, 42,0.9);
+
+    position: absolute; /*Can also be `fixed`*/
+
+    left: 10%;
+
+    right: 0;
+
+    top: 180px;
+
+
+    border-radius: 20px;
+
+}
+.titlu{
+
+    font-weight: bold;
+
+    background:linear-gradient(to right,cyan,white);
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+
+    font-size: 60px;
+    text-align:  center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.ull{
+    margin-top: 10%;
+    font-size: 50px;
+
+    list-style-type: none;
+
+}
+
+.liu{
+
+    width: 100%;
+
+    background-color: #45b0bf;
+
+    border-radius: 10px;
+
+    padding: 10px;
+
+    margin-top: 30px;
+
+}
+
+a{
+
+    color: black;
+
+}
+
+a:hover{
+
+    text-decoration: none;
+
+    color: black;
+
+}
+
+.menu-button{
+
+    position:absolute;
+
+    top:91vh;
+
+    float:right;
+
+    font-size:5em;
+
+    background-color: #182628;
+
+    padding: 10%;
+
+    border-radius: 50%;
+
+}
+
+.avatar-container{
+
+    position: relative;
+
+    right:4%;
+
+    top:2.5%;
+
+}
+
+.nav{
+    z-index: 10;
+    overflow:hidden;
+
+    padding:0px;
+
+    position: absolute;
+
+    height:100vh;
+
+    width:37em;
+
+    right:0px;
+
+    float:right;
+
+    background: linear-gradient(
+
+        to left bottom,
+
+        rgba(255,255,255,0.7),
+
+        rgba(255,255,255,0.3)    
+
+
+
+    );
+
+    display:none;
+
+}
+
+.avatar-name{
+
+    position:relative;
+
+    text-align:center;
+
+    right:12%;
+
+    font-size:40px;
+
+    margin-top:15px;
+
+    z-index:101;
+
+    color:white;
+
+}
+
+#status{
+
+    top: 50px;
+
+    position:relative;
+
+    border-radius: 20px;
+
+    padding:5px;
+
+    font-size: 20px;
+
+    float: right;
+
+    width:95%;
+
+    height:3em;
+
+    background-color: #3b945e;
+
+}
+
+.avatar-bg{
+
+    position: absolute;
+
+    width:35em;
+
+    height:6em;
+
+    text-align: center;
+
+    top:2.1em;
+
+    right:15px;;
+
+    z-index:100;
+
+    background-color:#182628;
+
+    border-radius: 20px;
+
+}
+
+.profile{
+
+    position: absolute;
+
+    right:2px;
+
+    display:inline-block;
+
+    vertical-align:middle;
+
+}
+
+.avatar-pfp{
+
+    z-index:108;
+
+    position: absolute;
+
+    top:2%;
+
+    right:2.5px;
+
+    font-size:10em;
+
+    text-decoration: none;
+
+    color:#3b945e;
+
+    background-color: #57ba98;
+
+    border-radius: 50%;
+
+}
+
+.avatar-pfp:hover{
+
+    background-color: #182628;
+
+    border-radius: 50%;
+
+    color:#3b945e
+
+}
+
+.invavatar-pfp{
+
+    z-index:108;
+
+    position: absolute;
+
+    top:2%;
+
+    right:2.5px;
+
+    font-size:10em;
+
+    text-decoration: none;
+
+    color:#3b945e;
+
+    background-color: #182628;
+
+    border-radius: 50%;
+
+}
+
+.invavatar-pfp:hover{
+
+    background-color: #57ba98;
+
+    border-radius: 50%;
+
+    color:#3b945e
+
+}
+
+
+
+@keyframes slide {
+
+    0% {
+
+      transform: translate(0);
+
+    }
+
+    100% {
+
+      transform: translate(-3840px); /* The image width */
+
+    }
+
+  }
+}
+@media (min-width:1000px) {
+
+.navv{
+    top: 220px;
+
+    position: relative;
+
+    width: 94%;
+
+    float: right;
+
+    right: 5%;
+
+}
+.test{
+    font-size: 30px;
+    color: white;
+}
+.content-container{
+
+    width:80%;
+
+    background-color: rgba(23, 37, 42,0.9);
+
+    position: absolute; /*Can also be `fixed`*/
+
+    left: 10%;
+
+    right: 0;
+
+    top: 80px;
+
+
+    border-radius: 20px;
+
+}
+.titlu{
+
+    font-weight: bold;
+
+    background:linear-gradient(to right,cyan,white);
+
+    -webkit-background-clip: text;
+
+    -webkit-text-fill-color: transparent;
+
+    font-size: 30px;
+    text-align:  center;
+}
+
+.ull{
+    margin-top: -20%;
+    font-size: 20px;
+
+    list-style-type: none;
+
+}
+
+.liu{
+
+    width: 100%;
+
+    background-color: #45b0bf;
+
+    border-radius: 10px;
+
+    padding: 5px;
+
+    margin-top: 5px;
+
+}
+
+a{
+
+    color: black;
+
+}
+
+a:hover{
+
+    text-decoration: none;
+
+    color: black;
+
+}
+
+.menu-button{
+
+    position:absolute;
+
+    top:91vh;
+
+    float:right;
+
+    font-size:2em;
+
+    background-color: #182628;
+
+    padding: 10%;
+
+    border-radius: 50%;
+
+}
+
+.avatar-container{
+
+    position: relative;
+
+    right:4%;
+
+    top:2.5%;
+
+}
+
+.nav{
+    z-index: 10;
+    overflow:hidden;
+
+    padding:0px;
+
+    position: absolute;
+
+    height:100vh;
+
+    width:27em;
+
+    right:0px;
+
+    float:right;
+
+    background: linear-gradient(
+
+        to left bottom,
+
+        rgba(255,255,255,0.7),
+
+        rgba(255,255,255,0.3)    
+
+
+
+    );
+
+    display:none;
+
+}
+
+.avatar-name{
+
+    position:relative;
+
+    text-align:center;
+
+    right:10px;
+
+    font-size:20px;
+
+    margin-top:5px;
+
+    z-index:101;
+
+    color:white;
+
+}
+
+#status{
+
+    top: 10px;
+
+    position:relative;
+
+    border-radius: 20px;
+
+    padding:5px;
+
+    float: right;
+
+    width:95%;
+
+    height:3em;
+
+    background-color: #3b945e;
+
+}
+
+.avatar-bg{
+
+    position: absolute;
+
+    width:25em;
+
+    height:3em;
+
+    text-align: center;
+
+    top:1.10em;
+
+    right:15px;;
+
+    z-index:100;
+
+    background-color:#182628;
+
+    border-radius: 20px;
+
+}
+
+.profile{
+
+    position: absolute;
+
+    right:2px;
+
+    display:inline-block;
+
+    vertical-align:middle;
+
+}
+
+.avatar-pfp{
+
+    z-index:108;
+
+    position: absolute;
+
+    top:2%;
+
+    right:2.5px;
+
+    font-size:5em;
+
+    text-decoration: none;
+
+    color:#3b945e;
+
+    background-color: #57ba98;
+
+    border-radius: 50%;
+
+}
+
+.avatar-pfp:hover{
+
+    background-color: #182628;
+
+    border-radius: 50%;
+
+    color:#3b945e
+
+}
+
+.invavatar-pfp{
+
+    z-index:108;
+
+    position: absolute;
+
+    top:2%;
+
+    right:2.5px;
+
+    font-size:5em;
+
+    text-decoration: none;
+
+    color:#3b945e;
+
+    background-color: #182628;
+
+    border-radius: 50%;
+
+}
+
+.invavatar-pfp:hover{
+
+    background-color: #57ba98;
+
+    border-radius: 50%;
+
+    color:#3b945e
+
+}
+
+
+
+@keyframes slide {
+
+    0% {
+
+      transform: translate(0);
+
+    }
+
+    100% {
+
+      transform: translate(-3840px); /* The image width */
+
+    }
+
+  }
+}
+
+
+
+  body {
+
+    height: 100%;
+
+    margin: 0;
+
+    padding: 0;
+
+  }
+
+  
+
+.scrolling-image {
+
+    width: 100%;
+
+    height: 100vh;
+
+    position: absolute;
+
+
+
+    background: url("../img/bg.jpg");
+
+    background-repeat: repeat;
+
+    background-position: 0 0;
+
+    background-size: auto 100%;
+
+  /*adjust s value for speed*/
+
+    animation: animatedBackground 100s;
+
+    filter: blur(10px);
+
+  }
+
+  
+
+  @keyframes animatedBackground {
+
+    from {
+
+      background-position: 0 0;
+
+    }
+
+  /*use negative width if you want it to flow right to left else and positive for left to right*/
+
+    to {
+
+      background-position: -10000px -2000px;
+
+    }
+
+  }

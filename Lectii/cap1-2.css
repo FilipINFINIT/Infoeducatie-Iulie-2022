@@ -1,0 +1,66 @@
+html *{
+
+    font-family: 'Open Sans', sans-serif;
+
+    
+
+}
+
+
+
+@media (max-width:1000px) {.poza1{
+    float: right;    
+    margin: 0 0 0 15px;
+    height: 25vh;
+    border-radius: 15px;
+} 
+.poza2{
+    float: left;    
+    margin: 0 15px 30px 15px;
+    width: 25vh;
+    border-radius: 15px;
+}
+.p1 {
+    margin: 15px;
+}
+.contex{
+    font-size: 40px;
+    color: lightgreen;
+}
+.link {
+    font-size: 40px;
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+    float: right;
+    margin-bottom: 15px;
+}
+}
+@media (min-width:1000px) {.poza1{
+    float: right;   
+    margin: 0 0 0 15px;
+    height: 35vh;
+    border-radius: 15px;
+} 
+.poza2{
+    float: left;    
+    margin: 0 15px 30px 15px;
+    width: 40vh;
+    border-radius: 15px;
+}
+.p1 {
+    margin: 15px;
+}
+.contex{
+    font-size: 20px;
+    color: lightgreen;
+}
+.link {
+    font-size: 20px;
+    background-color: lightblue;
+    padding: 5px;
+    border-radius: 5px;
+    float: right;
+    margin-bottom: 15px;
+}
+}
