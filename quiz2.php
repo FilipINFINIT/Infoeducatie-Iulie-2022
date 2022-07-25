@@ -27,7 +27,7 @@
 
             $statut="Elev";
 
-            $color_statut="blue";
+            $color_statut="#f8de73";
 
             break;
 
