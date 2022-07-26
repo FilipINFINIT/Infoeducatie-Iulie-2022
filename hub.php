@@ -247,7 +247,7 @@ window.addEventListener('load', function() {
        <div class="card" style="width: 18rem;text-align:center;"> 
             <div class="card-body">
             <h5 class="card-title">Capitolul I</h5>
-            <p class="card-text">Ce e mă războiul ?</p>
+            <p class="card-text">Ce e războiul ?</p>
             <a href="info.php" id="capitol1" class="btn btn-secondary btn-lg disabled" aria-disabled="true">Hai să aflăm împreună</a>
             </div>
         </div>
@@ -261,7 +261,7 @@ window.addEventListener('load', function() {
         <div class="card" style="width: 18rem;text-align:center;">  
             <div class="card-body">
             <h5 class="card-title">Capitolul III</h5>
-            <p class="card-text">Mai e și ăsta, Douglas MacArthur.</p>
+            <p class="card-text">Forțele comuniste scad</p>
             <a href="Lectii/cap3-1.php" id="capitol3" class="btn btn-secondary btn-lg disabled" aria-disabled="true">Hai să aflăm împreună</a>
             </div>
         </div>

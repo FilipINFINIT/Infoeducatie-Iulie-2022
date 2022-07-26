@@ -443,7 +443,7 @@
 
                 <h5 class="card-title">Capitolul I</h5>
 
-                <p class="card-text">Ce e mă războiul ?</p>
+                <p class="card-text">Ce e războiul ?</p>
 
                 <a href="info.php" id="capitol1" class="btn btn-primary" aria-disabled="true">Hai să aflăm împreună</a>
 
