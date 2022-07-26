@@ -1,4 +1,4 @@
-siteed.ro
+www.siteed.ro
 
 Componentele din proiect:
 - Fotografii
