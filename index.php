@@ -256,29 +256,12 @@
 
                         </li>
 
-                        <li class="liu">
-
-
-
-                            <a href="https://pnrtscr.com/r2k3fw">
-
-
-
-                                Ai grijă
-
-
-
-                            </a>
-
-
-
-                        </li>
 
                         <li class="liu" id="logout">
 
                             <a href="logout.php">
 
-                                Acasă, haideeeeee
+                                Deconectează-te
 
                             </a>
 
@@ -308,7 +291,7 @@
 
                         case 0:
 
-                            echo("<span class='titlu1'>Bun venit la Site ED.</span>");
+                            echo("<span class='titlu1'>Bun venit la Soft ED.</span>");
 
                             echo("<br>");
 
@@ -516,7 +499,7 @@
 
             <p class="text1">
 
-                Site-ul a fost creat de 2 elevi:
+                Soft-ul a fost creat de 2 elevi:
 
             </p>
 
