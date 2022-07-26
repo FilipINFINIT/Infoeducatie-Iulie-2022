@@ -152,7 +152,10 @@ window.addEventListener('load', function() {
         }
 
     </script>
-
+    <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Lectii</title>
+    <head>
     <header>
 
         <div class="navcontainer">

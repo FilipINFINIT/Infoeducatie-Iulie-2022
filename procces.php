@@ -42,6 +42,10 @@
     <link rel="stylesheet" href="resources/css/bootstrap.css">
     <link rel="stylesheet" href="resources/css/general.css">
     <link rel="stylesheet" href="resources/css/login.css">
+    <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Conectare</title>
+    <head>
 <style>
         
         @keyframes notify {
@@ -57,7 +61,7 @@
         }
         .error{
             overflow:hidden;
-            position:relative;
+            position:absolute;
             float:right;
             color:<?php echo $color?>;    
             background-color:rgba(23, 37, 42,0.6);

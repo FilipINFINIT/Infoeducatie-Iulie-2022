@@ -31,7 +31,7 @@ html *{
 
     background-color: rgba(23, 37, 42,0.9);
 
-    position: absolute; /*Can also be `fixed`*/
+    position: absolute;
 
     left: 10%;
 
@@ -619,7 +619,7 @@ a:hover{
     height: 100%;
 
     margin: 0;
-
+    background-color: lightgreen;
     padding: 0;
 
   }
@@ -644,9 +644,7 @@ a:hover{
 
     background-size: auto 100%;
 
-  /*adjust s value for speed*/
-
-    animation: animatedBackground 100s;
+    animation: animatedBackground 100s linear infinite;
 
     filter: blur(10px);
 

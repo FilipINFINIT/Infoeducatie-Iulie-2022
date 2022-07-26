@@ -10,6 +10,10 @@
     <?php
     $name = "Popescu q Ioan ";
     ?>
+        <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Inregistrare</title>
+    <head>
     <body>
     <div class="scrolling-image" style="z-index:-100;"></div>
         

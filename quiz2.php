@@ -62,7 +62,10 @@
         </script>
 
 <html>
-
+<head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Chestionar</title>
+    <head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

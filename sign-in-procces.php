@@ -53,6 +53,10 @@
     <link rel="stylesheet" href="resources/css/bootstrap.css">
     <link rel="stylesheet" href="resources/css/general.css">
     <link rel="stylesheet" href="resources/css/sign-in.css">
+    <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Inregistrare</title>
+    <head>
     <style>
         
         @keyframes notify {
@@ -68,7 +72,7 @@
         }
         .error{
             overflow:hidden;
-            position:relative;
+            position:absolute;
             float:right;
             color:<?php echo $color?>;    
             background-color:rgba(23, 37, 42,0.6);
@@ -85,22 +89,25 @@
             <p class="error"><?php echo $string1?></p>
         <div>
     </header>
-    <body><div class="login-container">
-        <h1 class="title">Inregistreaza-te</h1>
-        <form class="login-form" action="sign-in-procces.php" method="POST">
-            <p>Nume</p>
-            <input type="text" name="nume" placeholder="Introdu numele">
-            <p><br>Prenume</p>
-            <input type="text" name="prenume" placeholder="Introdu prenumele">
-            <p><br>E-mail</p>
-            <input type="text" name="email" placeholder="Introdu e-mailul">
-            <p><br>Parola</p>
-            <input type="password" name="password" placeholder="Introdu parola">
-            <br>            <br>            <br>            <br>            <br>
-            <center><input type="submit" name="" value="Register"></center>
-            <br>
-            <a class="back-button" style="font-size:3em;" href="login.php"><i class="las la-chevron-circle-left"></i></a>
-        </form>
-    </div></body>
+    <body>
+        <div class="scrolling-image" style="z-index:-100;"></div>
+        <div class="login-container">
+            <h1 class="title">Inregistreaza-te</h1>
+            <form class="login-form" action="sign-in-procces.php" method="POST">
+                <p>Nume</p>
+                <input type="text" name="nume" placeholder="Introdu numele">
+                <p><br>Prenume</p>
+                <input type="text" name="prenume" placeholder="Introdu prenumele">
+                <p><br>E-mail</p>
+                <input type="text" name="email" placeholder="Introdu e-mailul">
+                <p><br>Parola</p>
+                <input type="password" name="password" placeholder="Introdu parola">
+                <br>            <br>            <br>            <br>            <br>
+                <center><input type="submit" name="" value="Register"></center>
+                <br>
+                <a class="back-button" style="font-size:3em;" href="login.php"><i class="las la-chevron-circle-left"></i></a>
+            </form>
+        </div>
+    </body>
 </html>
 

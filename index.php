@@ -71,15 +71,15 @@
     <link rel="stylesheet" href="resources/css/general.css">
 
     <link rel="stylesheet" href="resources/css/navbar.css">
-
-
-
+    <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Acasa</title>
+    <head>
     <script>
 
             window.addEventListener('load', function() {
 
             var statut1 = "<?=$statut?>";
-
             console.log(statut1);
 
             if(statut1!="Vizitator"){
@@ -159,7 +159,7 @@
         }
 
     </script>
-
+    
     <header>
 
         <div class="navcontainer">
@@ -311,13 +311,12 @@
 
                             echo("<br><br> Pe acest site găsești lecții bine explicate care au multe imagini sugestive. <br> După fiecare capitol poți pacurge un test prin care poți să vezi cât de mult ai reușit să înveți.");
 
-                            echo("<img class='pozik' src='resources/img/30.png' class='imagini'>");
 
                             break;
 
                         case 1:
 
-                            echo("Progresul tau până când te-ai plictisit");
+                            if($progres>0)echo("Progresul tau până când te-ai plictisit");
 
                             break;
 
@@ -349,7 +348,6 @@
 
                 document.getElementById('cart4').style.display="none";
 
-                document.getElementById('ram').style.display="none";
 
             }
 
@@ -392,6 +390,9 @@
                 document.getElementById('cart4').style.display="none";
 
             }
+            else if(progress==0){
+                document.GetElementById('progress').style.display="none";
+            }
 
             
 
@@ -433,7 +434,10 @@
 
             <div id="progress"></div>
 
-        <p id="ram" class="text">Countinuă de unde ai rămas:</p>
+        <p id="ram" class="text"><?
+        if($progres>0 && $progres<1)echo('Continuă de unde ai rămas:');
+        else if($progres==1)echo('Felicitari! Ai finalizat lectia!');
+        else echo('Incepe:');?></p>
 
         <div class="card-wrap">
 

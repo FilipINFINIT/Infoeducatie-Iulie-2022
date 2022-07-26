@@ -77,7 +77,10 @@
 
     <link rel="stylesheet" href="resources/css/info.css">
     <link rel="stylesheet" href="resources/css/navbar.css">
-
+    <head>
+    <link rel="icon" href="icon.png" type="image">
+    <title>Capitolul I</title>
+    <head>
     <script>
         window.addEventListener('load', function() {
             var statut1 = "<?=$statut?>";
